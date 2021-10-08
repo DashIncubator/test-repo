@@ -1,4 +1,4 @@
-# Purpose of `test-repo`
+# `test-repo`
 
 This repository was created for testing purposes related to https://trello.com/c/m8w82CvE/184-incubator-on-github.  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
 
@@ -51,15 +51,15 @@ Migrating processes to GitHub would require further specification (along with QA
 
 ##### Supporting Links
 
-[GitHub Issues/Projects](https://github.com/features/issues/)
-[GitHub Actions](https://github.com/features/actions)
-[GitHub Discussions](https://docs.github.com/en/discussions)
-[Incubator Projects](https://github.com/orgs/dashincubator/projects?type=beta)
-[GitHub Learning Lab](https://lab.github.com/docs)
-[Projects Announcement](https://www.youtube.com/watch?v=64xO030aneI)
-[Projects Demo 1](https://www.youtube.com/watch?v=SI1ra-XHWHM)
-[Projects Demo 2](https://www.youtube.com/watch?v=lLGzd36x3Ho&t=2539s)
-[First suggestion to move to GitHub](https://discord.com/channels/670271785974890526/670271785974890529/677921124616634379)
+* [GitHub Issues/Projects](https://github.com/features/issues/)
+* [GitHub Actions](https://github.com/features/actions)
+* [GitHub Discussions](https://docs.github.com/en/discussions)
+* [Incubator Projects](https://github.com/orgs/dashincubator/projects?type=beta)
+* [GitHub Learning Lab](https://lab.github.com/docs)
+* [Projects Announcement](https://www.youtube.com/watch?v=64xO030aneI)
+* [Projects Demo 1](https://www.youtube.com/watch?v=SI1ra-XHWHM)
+* [Projects Demo 2](https://www.youtube.com/watch?v=lLGzd36x3Ho&t=2539s)
+* [First suggestion to move to GitHub](https://discord.com/channels/670271785974890526/670271785974890529/677921124616634379)
 
 ##### Additional Info (optional)
 
