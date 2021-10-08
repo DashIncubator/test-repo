@@ -1,10 +1,10 @@
 # `test-repo`
 
-This repository was created for testing purposes related to https://trello.com/c/m8w82CvE/184-incubator-on-github.  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
+This repository was created for testing purposes related to our [Incubator on GitHub](https://trello.com/c/m8w82CvE/184-incubator-on-github) bounty.  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
 
 ## Projects
 
-Our [DashIncubator organization](https://github.com/DashIncubator) here on GitHub has access to the new [GitHub Projects (beta)](https://github.com/features/issues/) feature.  The Incubator is most likely moving its project managment entirely from Trello to GitHub.
+Our [DashIncubator organization](https://github.com/DashIncubator) here on GitHub has access to the new [GitHub Projects (beta)](https://github.com/features/issues/) feature.  The Incubator is most likely moving its project managment to GitHub, following a [Trello vs GitHub feature assessment](https://docs.google.com/spreadsheets/d/1AabeKb9sgy5_W64PsKcOEXMN9M1iDveAqsqFobOGQxM/edit#gid=0) conducted by Incubator admins where we determined that GitHub offers more powerful tools for what impacts admins (and members) most.
 
 I've created a test project for us to play around with.  In Projects you can configure multiple views of the same underlying data.  Here are two main views as examples:
 
