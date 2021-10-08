@@ -1,6 +1,6 @@
 # `test-repo`
 
-This repository was created for testing purposes related to our [Incubator on GitHub](https://trello.com/c/m8w82CvE/184-incubator-on-github) bounty.  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
+This repository was created for testing purposes related to our [Incubator on GitHub bounty](https://trello.com/c/m8w82CvE/184-incubator-on-github).  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
 
 ## Projects
 
