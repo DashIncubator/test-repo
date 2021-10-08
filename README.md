@@ -2,7 +2,7 @@
 
 This repository was created for testing purposes related to https://trello.com/c/m8w82CvE/184-incubator-on-github.  We will likely keep this repo and the accompanying [test project](https://github.com/orgs/DashIncubator/projects/1/views/1) for ongoing testing.
 
-### Projects
+## Projects
 
 Our [DashIncubator organization](https://github.com/DashIncubator) here on GitHub has access to the new [GitHub Projects (beta)](https://github.com/features/issues/) feature.  The Incubator is most likely moving its project managment entirely from Trello to GitHub.
 
@@ -11,23 +11,23 @@ I've created a test project for us to play around with.  In Projects you can con
 * [Spreadsheet view](https://github.com/orgs/DashIncubator/projects/1/views/1)
 * [Kanban view](https://github.com/orgs/DashIncubator/projects/1/views/6)
 
-### Issues
+## Issues
 
 In Dash Incubator we work on tasks (individual units of work with accompanying Dash rewards) and bounties (collections of tasks, categorized as concept tasks, specification tasks, producution tasks, and QA tasks).  My initial thought is that we can represent both tasks and bounties as GitHub issess, with bounties being issues that track other issues.  An issue can "track" other issues by creating a checklist in the original issue description that references other issues.  This is recognized by GitHub by creating a two way link between tracking and tracking issues.  See [Issue 1](https://github.com/DashIncubator/test-repo/issues/1) for an example of an issue (a Bounty in Incubator terms) that tracks other issues (tasks in both Incubator and GitHub terms).
 
-### Original Concept
+## Original Concept
 
 The idea to move our project management from Trello to GitHub was originally documented on [our Trello board](https://trello.com/c/6XAuy9DW/94-request-new-concept#comment-614ce5673031a4043ef3d479).  The following is a copy of the content, for easier reference.
 
-##### Title
+### Title
 
 Incubator on GitHub
 
-##### Value Proposition
+### Value Proposition
 
 Bounty management, discussions, on-boarding/training, document storage, and other Incubator work and workflows on the industry-leading platform for developers, co-located with our Incubator-funded public repos.
 
-##### Functional Requirements
+### Functional Requirements
 
 Currently we are using Trello for bounty management. We have done work towards a custom app to replace Trello, but it may be best to postpone that and have it focus on what GitHub can't do (Dash payments, for example).
 
@@ -49,7 +49,7 @@ In addition to the benefits this migration would have for Incubator admin, this 
 
 Migrating processes to GitHub would require further specification (along with QA) just like any other bounty.
 
-##### Supporting Links
+### Supporting Links
 
 * [GitHub Issues/Projects](https://github.com/features/issues/)
 * [GitHub Actions](https://github.com/features/actions)
@@ -61,6 +61,6 @@ Migrating processes to GitHub would require further specification (along with QA
 * [Projects Demo 2](https://www.youtube.com/watch?v=lLGzd36x3Ho&t=2539s)
 * [First suggestion to move to GitHub](https://discord.com/channels/670271785974890526/670271785974890529/677921124616634379)
 
-##### Additional Info (optional)
+### Additional Info (optional)
 
 There are of course risks to moving so much of our process to GitHub, but I think the benefits outweigh the costs. We should discuss these in the #dash-incubator channel of the Dash Devs Discord.
